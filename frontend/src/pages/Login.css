@@ -1,0 +1,20 @@
+.login__bg {
+  height: 88vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.container-box {
+  font-family: "Nunito", sans-serif;
+  max-width: 600px;
+  background: rgb(18, 20, 23, 0.6);
+  color: white;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.container-box h1 {
+  font-weight: 600;
+}

@@ -1,0 +1,39 @@
+.signup-bg {
+  height: 88vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+.container-box {
+  max-width: 700px;
+  background: rgb(18, 20, 23, 0.6);
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.signup-profile-photo__container {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.signup-profile-photo {
+  width: 67px;
+  border-radius: 50%;
+  border: 1.5px solid rgb(109, 104, 104);
+  object-fit: cover;
+  height: 67px;
+}
+
+.add-photo-icon {
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  z-index: 99;
+}

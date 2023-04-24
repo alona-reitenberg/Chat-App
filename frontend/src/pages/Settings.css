@@ -1,0 +1,36 @@
+.signup__bg {
+  background-image: url(../assets/sidePic-setting.png);
+  height: 70vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.edit-box {
+  font-family: "Nunito", sans-serif;
+  color: white;
+}
+.edit-box h1 {
+  font-weight: 600;
+  color: white;
+}
+
+.input-settings {
+  background-color: rgba(255, 255, 255, 0.483);
+}
+
+.signup-profile-pic__container {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.signup-profile-pic {
+  width: 100px;
+  border-radius: 50%;
+  border: 2px solid gray;
+  object-fit: cover;
+  height: 100px;
+}

@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap");
+.home__bg {
+  height: 88vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.home-message-icon {
+  /* margin-left: 10px; */
+  display: inline-block;
+}
+
+.style-text {
+  /* font-family: "Rubik", sans-serif; */
+  font-family: "Nunito", sans-serif;
+  color: aliceblue;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 50px;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+}
+
+p {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.home-img {
+  width: 60%;
+}

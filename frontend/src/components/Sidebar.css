@@ -1,0 +1,60 @@
+.sidebar-container {
+  background: rgba(255, 255, 255, 0.15);
+  font-family: "Nunito", sans-serif;
+  height: 100%;
+}
+.sidebar-container h2 {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1em;
+  padding: 1em;
+  font-weight: 400;
+  /* margin: 0.5em auto; */
+  color: #fff;
+  text-align: center;
+}
+
+.sidebar-container .list {
+  float: left;
+  text-align: left;
+  margin: -0.25em 2em;
+  font-size: 0.7em;
+  font-weight: 300;
+  color: #fff;
+  width: 200px;
+}
+
+.member-status-img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.room-icon {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.member-status {
+  margin-bottom: 0;
+  position: relative;
+}
+
+.sidebar-online-status {
+  color: green;
+}
+
+.sidebar-offline-status {
+  color: #e3b505;
+}
+
+.sidebar-offline-status,
+.sidebar-online-status {
+  font-size: 9px;
+  position: absolute;
+  z-index: 99;
+  bottom: 0;
+  left: 12px;
+}
