@@ -11,7 +11,7 @@
 ## Technologies
 
 Frontend- React JS 
-Backend- Node JS and WebSocket 
+Backend- Node JS, Socket.io, MongoDB.
 
 ## Description
 The Chat App is a web application that allows you to talk online with connected frindes and see all their messages.<br>
