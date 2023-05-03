@@ -10,7 +10,7 @@
 
 ## Technologies
 
-Frontend- React JS <br>
+Frontend- React JS, Redux <br>
 Backend- Node JS, Socket.io, MongoDB.
 
 ## Description
